@@ -1,5 +1,3 @@
-# Hi there, I'm Bohdan
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;Rust+Enthusiast;Systems+Programmer" alt="Typing SVG" />
 </div>
@@ -103,7 +101,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loser-smurf&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser-smurf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
