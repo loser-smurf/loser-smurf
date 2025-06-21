@@ -4,8 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;Rust+Enthusiast;Systems+Programmer" alt="Typing SVG" />
 </div>
 
+## 📫 Connect With Me
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loser-smurf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://t.me/loser_smurf" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/loser-smurf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
@@ -17,7 +24,22 @@ I'm a passionate backend developer originally from **Ukraine** 🇺🇦, current
 - 🔭 Currently working on distributed systems and networking applications
 - 🌱 Learning Rust patterns and exploring new programming concepts
 - 💬 Ask me about Rust, backend development, or any of my projects
-- 📫 Reach me on [Telegram](https://t.me/loser_smurf)
+
+---
+
+## 🌟 GitHub Snake Animation
+
+<div align="center">
+  <img src="assets/github-snake.svg" alt="GitHub Snake" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loser-smurf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
 ---
 
@@ -26,7 +48,6 @@ I'm a passionate backend developer originally from **Ukraine** 🇺🇦, current
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
@@ -103,32 +124,11 @@ I'm a passionate backend developer originally from **Ukraine** 🇺🇦, current
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Additional Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loser-smurf&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser-smurf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-## 🌟 GitHub Snake Animation
-
-<div align="center">
-  <img src="assets/github-snake.svg" alt="GitHub Snake" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://t.me/loser_smurf" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/loser-smurf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
